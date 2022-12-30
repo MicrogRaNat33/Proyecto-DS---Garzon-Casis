@@ -1,0 +1,23 @@
+https://www.kaggle.com/datasets/rounakbanik/the-movies-dataset?resource=download
+Acerca del conjunto de datos
+Contexto
+Estos archivos contienen metadatos de las 45 000 películas enumeradas en el conjunto de datos completo de MovieLens. El conjunto de datos consta de películas estrenadas en julio de 2017 o antes. Los puntos de datos incluyen el reparto, el equipo, las palabras clave de la trama, el presupuesto, los ingresos, los carteles, las fechas de estreno, los idiomas, las productoras, los países, los recuentos de votos de TMDB y los promedios de votos.
+
+Este conjunto de datos también tiene archivos que contienen 26 millones de calificaciones de 270 000 usuarios para las 45 000 películas. Las calificaciones están en una escala de 1 a 5 y se han obtenido del sitio web oficial de GroupLens.
+
+Contenido
+Este conjunto de datos consta de los siguientes archivos:
+
+movies_metadata.csv: el archivo principal de metadatos de películas. Contiene información sobre 45 000 películas presentadas en el conjunto de datos de Full MovieLens. Las características incluyen carteles, fondos, presupuesto, ingresos, fechas de lanzamiento, idiomas, países de producción y empresas.
+
+keywords.csv: contiene las palabras clave de la trama de la película para nuestras películas MovieLens. Disponible en forma de un objeto JSON en cadena.
+
+credits.csv: contiene información sobre el reparto y el equipo técnico de todas nuestras películas. Disponible en forma de un objeto JSON en cadena.
+
+links.csv: el archivo que contiene los ID de TMDB e IMDB de todas las películas que aparecen en el conjunto de datos de Full MovieLens.
+
+links_small.csv: contiene los ID de TMDB e IMDB de un pequeño subconjunto de 9000 películas del conjunto de datos completo.
+
+ratings_small.csv: el subconjunto de 100 000 calificaciones de 700 usuarios en 9000 películas.
+
+Se puede acceder al conjunto de datos completo de MovieLens que consta de 26 millones de calificaciones y 750 000 aplicaciones de etiquetas de 270 000 usuarios en las 45 000 películas de este conjunto de datos aquí
