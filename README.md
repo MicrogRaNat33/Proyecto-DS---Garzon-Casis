@@ -1,2 +1,3 @@
 # Proyecto-DS---Garzon-Casis
-Proyecto: Producción de Películas: Inversión Vs. Ganancias , Como Requisito para obtención de Certificado Data Scientist
+Producción de Películas
+En qué tipo de película invertir para obtener Ganancias?
